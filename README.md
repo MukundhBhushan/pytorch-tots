@@ -14,4 +14,4 @@ step3: specify learning rate
 
 step4; specify optimizer
 
-	-Adam, SGD,   GDHboost
+	-Adam, SGD,   GDXboost
